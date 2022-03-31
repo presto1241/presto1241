@@ -1,5 +1,1 @@
-# -I nerd.
-# -I like VR.
-# -C# and java cool.
-# -I cringe
-# -Have great day.
+Hello! I am presto. I'm currently program in C#, Javascript, and a little bit of C++. Im gonna post more projects soon but right now I dont have much. I will have a portfollio up soon so dont rely on this.
