@@ -1,1 +1,6 @@
-Hello! I am presto. I'm currently program in C#, Javascript, and a little bit of C++. Im gonna post more projects soon but right now I dont have much. I will have a portfollio up soon so dont rely on this.
+# Hallo!
+
+<p>I am presto! I mainly do programming for vr experiences and vr applications.<br>
+<p>I'm always looking to learn new stuff! Even if I won't be good at it. If you want to add me or contact me, the best place would be discord "presto.exe".
+
+---
