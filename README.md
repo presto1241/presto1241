@@ -7,3 +7,5 @@
 
 ### I love C#
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=presto1241&theme=dark_github)](https://github.com/stats-organization/github-stats-extended)
+<br>
+[![WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=2116e3ea-8d49-4f13-ae3c-13816d4d833e&theme=dark_github)](https://wakatime.com/@2116e3ea-8d49-4f13-ae3c-13816d4d833e)
